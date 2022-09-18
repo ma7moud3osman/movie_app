@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "movie_app.iml": true,
+    "pubspec.lock": true,
+    "README.md": true
+  }
+}
